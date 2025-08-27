@@ -1,0 +1,8 @@
+site_name: "dsadsadsadsadsa"
+site_description: "lpsm-dev"
+
+nav:
+  - Introduction: index.md
+
+plugins:
+  - techdocs-core
